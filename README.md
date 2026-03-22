@@ -6,7 +6,7 @@ This repository tracks my hands-on projects.
 
 ## Projects
 - Week 1: Tools Setup & First Python Script
-- Week 2: Python Basics for AI Testing (coming soon)
+- Week 2: Python Basics for AI Testing
 
 ## Skills Being Developed
 - Python for AI testing
